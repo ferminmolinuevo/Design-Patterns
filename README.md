@@ -1,0 +1,4 @@
+designPatterns
+==============
+
+Design patterns examples
