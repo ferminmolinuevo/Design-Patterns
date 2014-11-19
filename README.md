@@ -1,4 +1,4 @@
 Design Patterns
 ==============
 
-Strategy Pattern: Defines a family of algorithms, encapsulates each algorithm, and makes the algorithms interchangeable within that family.
+Design pattern examples coded on c# language. For more information about each example, please go to Design Patterns wiki.
